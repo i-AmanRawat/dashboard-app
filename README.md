@@ -1,5 +1,2 @@
-## Next.js App Router Course - Starter
-
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Developed a comprehensive customer management application using Nextjs for seamless frontend and backend integration. The application allows the company to track customer payments, monitor collected and outstanding credits, and manage financial records efficiently. Key features of the application include: Public home page, Protected dashboard pages accessible only through authentication, Functionality for users to add, edit, and delete invoices.
+This project enhanced my ability to create intuitive and secure web applications, demonstrating my expertise in improving business operations through effective software solutions.
